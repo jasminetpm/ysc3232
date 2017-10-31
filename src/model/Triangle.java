@@ -27,5 +27,10 @@ public class Triangle {
 	{
 		return this.points[0];
 	}
+	
+	public Point getSecondPoint()
+	{
+		return this.points[1];
+	}
 
 }
