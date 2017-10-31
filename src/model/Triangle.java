@@ -4,7 +4,6 @@ import java.awt.Point;
 
 public class Triangle {
 	
-<<<<<<< HEAD
 	private Point[] points;
 
 	/**
@@ -16,12 +15,10 @@ public class Triangle {
 	 * @param x3 the X coordinate of the third point
 	 * @param y3 the Y coordinate of the third point
 	 */
-=======
 	private Point p1;
 	private Point p2;
 	private Point p3;
 	
->>>>>>> experimental
 	public Triangle(int x1, int y1, int x2, int y2, int x3, int y3)
 	{
 		this.p1 = new Point(x1, y1);
