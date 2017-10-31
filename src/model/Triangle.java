@@ -20,4 +20,8 @@ public class Triangle {
 		return this.p1;
 	}
 
+	public Point getSecondPoint()
+	{
+		return this.p2;
+	}
 }
